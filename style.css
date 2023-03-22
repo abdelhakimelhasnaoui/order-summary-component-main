@@ -1,8 +1,4 @@
-body {
 
-
-}
-section.groove {border-style: groove;}
 section {
     display: flex;
     flex-direction: column;
